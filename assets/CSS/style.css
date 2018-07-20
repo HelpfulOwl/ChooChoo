@@ -1,0 +1,18 @@
+body{
+    background-color: slategray;
+}
+
+#train-jumbo{
+    background-color: darkcyan;
+    text-align: center;
+}
+
+#current{
+    text-align: center;
+   
+    border: 1px solid red;
+}
+
+#button{
+    text-align: center;
+}
